@@ -245,8 +245,8 @@ Contoh Penggunaan:
 Add Items
 
 Pilih menu: 1
-Nama Barang: Bolpoin
-Jumlah Stok: 100
+Nama Barang: Buku
+Jumlah Stok: 10
 Harga Barang: 2500
 
 Barang 'Bolpoin' berhasil ditambahkan.
