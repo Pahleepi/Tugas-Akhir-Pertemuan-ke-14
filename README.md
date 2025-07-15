@@ -305,7 +305,7 @@ Skenario uji
 | Langkah       | Input                      | Output                                |
 | ------------- | -------------------------- | ------------------------------------- |
 | Tambah Barang | Buku, 10, 2500             | Barang ‘Bolpoin’ berhasil ditambahkan |
-| Lihat Barang  | -                          | ID 1, Bolpoin, 100, 2500              |
+| Lihat Barang  | -                          | ID 2, Pensil, 10, 2000                |
 | Update Barang | ID 1, Stok 5, Harga 5000   | Data barang berhasil diupdate         |
 | Cari Barang   | Kata kunci: Bu             | Tampil: ID 1, Buku                    |
 | Hapus Barang  | ID 3                       | Barang berhasil dihapus               |
