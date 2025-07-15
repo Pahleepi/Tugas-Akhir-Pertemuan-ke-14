@@ -249,7 +249,7 @@ Nama Barang: Buku
 Jumlah Stok: 10
 Harga Barang: 2500
 
-Barang 'Bolpoin' berhasil ditambahkan.
+Barang 'Buku' berhasil ditambahkan.
 ```
 
 ## FAQ & Troubleshooting Guide
